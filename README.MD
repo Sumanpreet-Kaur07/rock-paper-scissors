@@ -31,11 +31,11 @@ Play the game directly in your browser:
 
 ### Game Interface
 
-![Rock Paper Scissors Game](./Screenshot1.png)
+![Rock Paper Scissors Game](./Screenshot2.png)
 
 ### Gameplay Result
 
-![Rock Paper Scissors Gameplay](./Screenshot2.png)
+![Rock Paper Scissors Gameplay](./Screenshot1.png)
 
 ## 📁 Project Structure
 
